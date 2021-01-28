@@ -5,12 +5,13 @@
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com   I have also Kakao & Line 
 - 😄 now : I'm studying java & 
-- ⚡ not computer language : Korean English Japanese ! 
--->
+- :earth_africa: not computer language : :kr::jp::us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukPark-Tech&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukPark-Tech&layout=compact&)
+
+:new_moon::new_moon::waxing_crescent_moon::waxing_crescent_moon::first_quarter_moon::first_quarter_moon::waxing_gibbous_moon::waxing_gibbous_moon::full_moon::full_moon::waning_gibbous_moon::waning_gibbous_moon::last_quarter_moon::last_quarter_moon::waning_crescent_moon::waning_crescent_moon::new_moon::new_moon:
 
 
 
