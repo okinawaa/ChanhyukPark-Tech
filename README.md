@@ -8,6 +8,7 @@
 - ⚡ not computer language : Korean English Japanese ! 
 -->
 
+![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
 <!--
 **ChanhyukPark-Tech/ChanhyukPark-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
