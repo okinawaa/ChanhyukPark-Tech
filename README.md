@@ -1,5 +1,7 @@
 ### annyeong I'm ChanHyukPark!👋
 - 🔭 I’m currently student in hanyang university erica campus !
+- :mortar_board: major : Mechanical Engineer & Software Engineer
+
 - 🌱 I’m currently learning various computer language !
 - 🤔 I’m looking for help with Java . C 
 - 💬 Ask me about everything !
