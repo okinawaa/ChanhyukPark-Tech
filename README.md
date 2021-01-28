@@ -5,7 +5,7 @@
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com   I have also Kakao & Line 
 - 😄 now : I'm studying java & 
-- :earth_africa: not computer language : :kr::jp::us:
+- :earth_africa: not computer language : :kr: :jp: :us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
 
