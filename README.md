@@ -3,7 +3,7 @@
 - :mortar_board: major : Mechanical Engineer & Software Engineer
 
 - 🌱 I’m currently learning various computer language !
-- 🤔 I’m looking for help with Java . C 
+- 🤔 I’m looking for help with Python !
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com   I have also Kakao & Line 
 - 😄 now : I'm studying java & 
