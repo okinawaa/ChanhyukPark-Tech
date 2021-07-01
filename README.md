@@ -3,10 +3,10 @@
 - :mortar_board: major : Mechanical Engineer & Software Engineer
 
 - 🌱 I’m currently learning various computer language !
-- 🤔 I’m looking for help with Python !
+- 🤔 I’m looking for help with WEB Programming
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com   I have also Kakao & Line 
-- 😄 now : I'm studying java & 
+- 😄 now : I'm studying WEB
 - :earth_africa: not computer language : :kr: :jp: :us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
