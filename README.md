@@ -10,7 +10,6 @@
 - :earth_africa: not computer language : :kr: :jp: :us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChanhyukPark-Tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukPark-Tech&layout=compact&hide=Jupyter%20NoteBook)
