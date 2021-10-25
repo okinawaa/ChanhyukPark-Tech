@@ -2,7 +2,7 @@
 - 🔭 I’m currently student in hanyang university erica campus !
 - :mortar_board: major : Mechanical Engineer & Software Engineer
 
-- 🌱 I’m currently learning various computer language !
+- 🌱 I’m currently learning various skills
 - 🤔 I’m looking for help with WEB & App Programming
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com , chanhyuk-tech@kakao.com  I have also Kakao & Line 
