@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukPark-Tech&layout=compact&hide=Jupyter%20NoteBook)
 
-[😄portfolio😄](http://3.38.101.82/)
+[😄portfolio😄](http://3.38.119.250/)
 [🤔my blog ! ! 🤔](https://chanhyukpark-tech.github.io/)
 
 
@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
