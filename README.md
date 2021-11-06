@@ -1,4 +1,4 @@
-### annyeong I'm ChanHyukPark!👋
+## annyeong I'm ChanHyukPark!👋
 - 🔭 I’m currently student in hanyang university erica campus !
 - :mortar_board: major : Mechanical Engineer & Software Engineer
 
