@@ -13,8 +13,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyukPark-Tech&layout=compact&hide=Jupyter%20NoteBook)
 
-[😄portfolio😄](http://chanhyuk.com/)
-[🤔my blog ! ! 🤔](https://chanhyukpark-tech.github.io/)
+## [😄portfolio😄](http://chanhyuk.com/)
+## [🤔my blog🤔](https://chanhyukpark-tech.github.io/)
 
 
 
