@@ -3,10 +3,10 @@
 - :mortar_board: major : Mechanical Engineer & Software Engineer
 
 - 🌱 I’m currently learning various skills
-- 🤔 I’m looking for help with WEB & App Programming
+- 🤔 I’m looking for help with WEB & APP Programming
 - 💬 Ask me about everything !
 - 📫 How to reach me: ===> pgg6713@gmail.com , chanhyuk-tech@kakao.com  I have also Kakao & Line 
-- 😄 now : I'm studying WEB
+- 😄 now : I'm studying WEB / APP
 - :earth_africa: not computer language : :kr: :jp: :us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
