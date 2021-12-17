@@ -19,7 +19,6 @@
 
 
 ### 2021-12-18
-`1111` commits !
 ![image](https://user-images.githubusercontent.com/69495129/146586696-717f4d7f-bb2c-4109-ab91-7aedbf6e6843.png)
 
 
