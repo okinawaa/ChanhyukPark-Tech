@@ -1,13 +1,6 @@
-## annyeong I'm ChanHyukPark!👋
-- 🔭 I’m currently student in hanyang university erica campus !
-- :mortar_board: major : Mechanical Engineer & Software Engineer
+## [PARK CHANHYUK PORTFOLIO](http://chanhyuk.com/)
+- 🌱 I’m currently learning typescript for react
 
-- 🌱 I’m currently learning various skills
-- 🤔 I’m looking for help with WEB & APP Programming
-- 💬 Ask me about everything !
-- 📫 How to reach me: ===> pgg6713@gmail.com , chanhyuk-tech@kakao.com  I have also Kakao & Line 
-- 😄 now : I'm studying WEB / APP
-- :earth_africa: not computer language : :kr: :jp: :us:
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
 
@@ -15,25 +8,29 @@
 
 
 
-## Skills
+## Skill 
+
+🎈 FE
 
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 
+🧬 BE
+
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 
 
-## [😄portfolio😄](http://chanhyuk.com/)
-## [🤔my blog🤔](https://chanhyukpark-tech.github.io/)
+✨ DevOps
 
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
+🥢 Tools
 
-### 2021-12-18
-![image](https://user-images.githubusercontent.com/69495129/146586696-717f4d7f-bb2c-4109-ab91-7aedbf6e6843.png)
-
-
-
-
-:new_moon::new_moon::waxing_crescent_moon::waxing_crescent_moon::first_quarter_moon::first_quarter_moon::waxing_gibbous_moon::waxing_gibbous_moon::full_moon::full_moon::waning_gibbous_moon::waning_gibbous_moon::last_quarter_moon::last_quarter_moon::waning_crescent_moon::waning_crescent_moon::new_moon::new_moon:
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
+<code><img width="30" height="30" src="https://user-images.githubusercontent.com/69495129/147258236-df7087f8-e30a-4b9d-b8e1-92621f188a97.png"></code>
 
 
 <!--
