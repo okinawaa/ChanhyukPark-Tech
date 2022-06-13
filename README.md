@@ -27,6 +27,8 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+
 
 🥢 Tools
 
