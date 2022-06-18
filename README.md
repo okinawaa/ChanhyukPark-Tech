@@ -33,7 +33,7 @@
 
 🥢 Tools
 
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 <code><img width="30" height="30" src="https://user-images.githubusercontent.com/69495129/147258236-df7087f8-e30a-4b9d-b8e1-92621f188a97.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
