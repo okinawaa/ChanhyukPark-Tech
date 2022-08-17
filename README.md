@@ -1,5 +1,5 @@
 ## [PARK CHANHYUK PORTFOLIO](http://chanhyuk.com/)
-🌱 I’m currently learning flutter
+🌱 I’m currently learning clean architecture of flutter
 
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
