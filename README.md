@@ -1,10 +1,6 @@
 ## [PARK CHANHYUK PORTFOLIO](http://chanhyuk.com/)
-🌱 I’m currently learning clean architecture of flutter
-
 
 ![Chanhyuk's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyukPark-Tech&show_icons=true&theme=radical)
-
-<a href="https://opgc.me/#/users/ChanhyukPark-Tech" target="_blank"><img src="https://api.opgc.me/githubs/users/ChanhyukPark-Tech/tag/?theme=basic" /></a>
 
 
 ## Skill 
